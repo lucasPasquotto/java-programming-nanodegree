@@ -3,7 +3,7 @@ package lesson5.genericsAndCollections.collectionsExample;
 import java.util.LinkedList;
 import java.util.List;
 
-public class collectionsExample {
+public class CollectionsExample {
     public static void main(String[] args) {
         List<String> listOfItems = new LinkedList<String>();
 
