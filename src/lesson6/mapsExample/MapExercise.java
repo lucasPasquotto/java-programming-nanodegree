@@ -8,10 +8,8 @@ import java.util.Map;
  * Notes: In computer science, the efficiency of an algorithm is often expressed using Big O notation.
  * Maps allow us to find an element in O(1) time complexity,
  * which is more efficient than the O(n) time complexity required for a linear search, such as in Arrays.
- * Use Maps to retrieve an element from a list in constant time
  *
- * Use Set to avoid duplicates in the list
- * Use Queue to process the elements in the order they arrive
+ * Use Maps to retrieve an element from a list in constant time
  */
 public class MapExercise {
 
