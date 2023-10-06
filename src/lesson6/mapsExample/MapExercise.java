@@ -10,6 +10,8 @@ import java.util.Map;
  * which is more efficient than the O(n) time complexity required for a linear search, such as in Arrays.
  *
  * Use Maps to retrieve an element from a list in constant time
+ *
+ * Maps are collections that use key-value pairs, making it possible for us to find an element more efficiently (in constant time rather than linear time).
  */
 public class MapExercise {
 
