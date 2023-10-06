@@ -1,6 +1,5 @@
-package lesson5.genericsAndCollections.collectionsExample;
+package lesson5.collectionsExample;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;

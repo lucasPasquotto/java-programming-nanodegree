@@ -1,4 +1,4 @@
-package lesson5.genericsAndCollections.iteratorExample;
+package lesson5.iteratorExample;
 
 import java.util.*;
 

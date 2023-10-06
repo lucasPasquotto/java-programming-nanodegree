@@ -1,4 +1,4 @@
-package lesson5.genericsAndCollections.genericExample;
+package lesson5.genericExample;
 
 import java.util.ArrayList;
 
